@@ -1,0 +1,61 @@
+{
+  "Files": [
+    {
+      "Id": "G:\\Project\\C#\\StreamWebApi\\WebSocketsTest\\wwwroot\\images\\1e5ccdef-5c04-44bf-92a9-f3c9caaf9ef5_pexels-jakub-novacek-924824.jpg",
+      "PackagePath": "staticwebassets\\images\\1e5ccdef-5c04-44bf-92a9-f3c9caaf9ef5_pexels-jakub-novacek-924824.jpg"
+    },
+    {
+      "Id": "G:\\Project\\C#\\StreamWebApi\\WebSocketsTest\\wwwroot\\images\\5a4960ae-c7a5-4554-8e49-c73b28d76729_gabe-770x470.jpg",
+      "PackagePath": "staticwebassets\\images\\5a4960ae-c7a5-4554-8e49-c73b28d76729_gabe-770x470.jpg"
+    },
+    {
+      "Id": "G:\\Project\\C#\\StreamWebApi\\WebSocketsTest\\wwwroot\\images\\7ebd85be-0d88-4ca3-af37-28ddbf8872b8_297024956_1243401036475742_2229126652022215935_n.jpg",
+      "PackagePath": "staticwebassets\\images\\7ebd85be-0d88-4ca3-af37-28ddbf8872b8_297024956_1243401036475742_2229126652022215935_n.jpg"
+    },
+    {
+      "Id": "G:\\Project\\C#\\StreamWebApi\\WebSocketsTest\\wwwroot\\images\\8f8429df-ae79-4628-bd4c-63d421f836b5_312479791_449703950583391_63650099645705543_n.jpg",
+      "PackagePath": "staticwebassets\\images\\8f8429df-ae79-4628-bd4c-63d421f836b5_312479791_449703950583391_63650099645705543_n.jpg"
+    },
+    {
+      "Id": "G:\\Project\\C#\\StreamWebApi\\WebSocketsTest\\wwwroot\\images\\9a1d3482-9bac-463a-8ddf-cff0094b4363_Screenshot_1064.png",
+      "PackagePath": "staticwebassets\\images\\9a1d3482-9bac-463a-8ddf-cff0094b4363_Screenshot_1064.png"
+    },
+    {
+      "Id": "G:\\Project\\C#\\StreamWebApi\\WebSocketsTest\\wwwroot\\images\\League of Legends (TM) Client 2022-01-05 22-12-22_Moment(2)_Moment.jpg",
+      "PackagePath": "staticwebassets\\images\\League of Legends (TM) Client 2022-01-05 22-12-22_Moment(2)_Moment.jpg"
+    },
+    {
+      "Id": "G:\\Project\\C#\\StreamWebApi\\WebSocketsTest\\wwwroot\\images\\Screenshot_1064.png",
+      "PackagePath": "staticwebassets\\images\\Screenshot_1064.png"
+    },
+    {
+      "Id": "G:\\Project\\C#\\StreamWebApi\\WebSocketsTest\\wwwroot\\images\\untitled-f000879.png",
+      "PackagePath": "staticwebassets\\images\\untitled-f000879.png"
+    },
+    {
+      "Id": "G:\\Project\\C#\\StreamWebApi\\WebSocketsTest\\wwwroot\\images\\vlcsnap-2022-10-28-21h02m10s920.png",
+      "PackagePath": "staticwebassets\\images\\vlcsnap-2022-10-28-21h02m10s920.png"
+    },
+    {
+      "Id": "G:\\Project\\C#\\StreamWebApi\\WebSocketsTest\\wwwroot\\indexx.html",
+      "PackagePath": "staticwebassets\\indexx.html"
+    },
+    {
+      "Id": "obj\\Debug\\net7.0\\staticwebassets\\msbuild.UploadImage.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj\\Debug\\net7.0\\staticwebassets\\msbuild.build.UploadImage.props",
+      "PackagePath": "build\\UploadImage.props"
+    },
+    {
+      "Id": "obj\\Debug\\net7.0\\staticwebassets\\msbuild.buildMultiTargeting.UploadImage.props",
+      "PackagePath": "buildMultiTargeting\\UploadImage.props"
+    },
+    {
+      "Id": "obj\\Debug\\net7.0\\staticwebassets\\msbuild.buildTransitive.UploadImage.props",
+      "PackagePath": "buildTransitive\\UploadImage.props"
+    }
+  ],
+  "ElementsToRemove": []
+}
